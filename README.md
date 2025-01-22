@@ -1,7 +1,7 @@
 ## 👋 Olá, mundo, eu sou Júlia Cabral!
 
 - 🎓 Hoje sou estudante de Análise e Desenvolvimento de Sistemas na UNP 
-- 💻 Estudando Python, C e Logica de Programação
+- 💻 Estudando Python, Java e Logica de Programação
 - 🤓 Estou sempre buscando aprender algo novo para aprimorar meus estudos e desenvolver ainda mais minhas habilidades em tecnologia.
 
 ## 👩‍💻 Skills:
