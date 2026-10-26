@@ -36,7 +36,7 @@ Venho do suporte técnico e da infraestrutura de TI, e hoje construo minha carre
 ### Contratando?
 
 > [!IMPORTANT]
-> [Baixar meu currículo]([CV-Julia-Cabral.pdf](https://github.com/user-attachments/files/33990613/CV-Julia-Cabral.pdf))
+> [Baixar meu currículo] ([CV-Julia-Cabral.pdf](https://github.com/user-attachments/files/33990613/CV-Julia-Cabral.pdf)) 
 
 <div align="center">
 
