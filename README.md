@@ -4,7 +4,9 @@
 
 # Júlia Cabral
 
-**Desenvolvedora back-end Java** ☕
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&duration=4000&pause=800&color=B08968&center=true&vCenter=true&width=450&height=50&lines=Ol%C3%A1%2C+eu+sou+a+J%C3%BAlia+Cabral;Desenvolvedora+back-end+Java" alt="Typing SVG" />
+</div>
 
 Natal, RN · Análise e Desenvolvimento de Sistemas (UNP)
 
