@@ -31,9 +31,7 @@ Venho do suporte técnico e da infraestrutura de TI, e hoje construo minha carre
 
 ### Contato
 
-LinkedIn Email
-
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=E6CCB2&height=90&section=footer" alt="" /> </div>
+LinkedIn
 
 <div align="center">
 
