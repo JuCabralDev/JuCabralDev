@@ -29,7 +29,7 @@ Venho do suporte técnico e da infraestrutura de TI, e hoje construo minha carre
 - SQL e modelagem de dados
 - Testes, Git e boas práticas
 
-### Contato
+### Se conecte comigo! 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jucabraldev-B08968?style=flat-square)](https://www.linkedin.com/in/jucabraldev) [![Email](https://img.shields.io/badge/Email-julia.cabral.medeiros%40gmail.com-B08968?style=flat-square)](mailto:julia.cabral.medeiros@gmail.com)
 
