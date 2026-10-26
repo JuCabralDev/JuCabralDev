@@ -21,7 +21,7 @@ Venho do suporte técnico e da infraestrutura de TI, e hoje construo minha carre
 ### Stack
 
 <!-- Troque "mysql" por "postgres" (ou outro) conforme o banco que você realmente usa -->
-[![Stack](https://skillicons.dev/icons?i=java,spring,mysql,git,github,html,css,js,linux)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=java,spring,mysql,git,github,html,css,js,linux,idea,obsidian)](https://skillicons.dev)
 
 ### Estudando agora
 
