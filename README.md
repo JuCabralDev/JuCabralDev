@@ -33,6 +33,11 @@ Venho do suporte técnico e da infraestrutura de TI, e hoje construo minha carre
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jucabraldev-B08968?style=flat-square)](https://www.linkedin.com/in/jucabraldev) [![Email](https://img.shields.io/badge/Email-julia.cabral.medeiros%40gmail.com-B08968?style=flat-square)](mailto:julia.cabral.medeiros@gmail.com)
 
+### Contratando?
+
+> [!IMPORTANT]
+> [Baixar meu currículo]([CV-Julia-Cabral.pdf](https://github.com/user-attachments/files/33990613/CV-Julia-Cabral.pdf))
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=E6CCB2&height=90&section=footer" alt="" />
