@@ -34,7 +34,7 @@ Venho do suporte técnico e da infraestrutura de TI, e hoje construo minha carre
 </td>
 <td align="right" width="40%">
 
-<img src="https://media1.tenor.com/m/suspytVqEIcAAAAC/java-my-beloved.gif" width="250" alt="Java my beloved" />
+<img align="right" src="https://media1.tenor.com/m/suspytVqEIcAAAAC/java-my-beloved.gif" width="250" alt="Java my beloved" />
 
 </td>
 </tr>
