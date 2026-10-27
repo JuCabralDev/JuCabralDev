@@ -23,11 +23,22 @@ Venho do suporte técnico e da infraestrutura de TI, e hoje construo minha carre
 <!-- Troque "mysql" por "postgres" (ou outro) conforme o banco que você realmente usa -->
 [![Stack](https://skillicons.dev/icons?i=java,spring,mysql,git,github,html,css,js,linux,idea,obsidian)](https://skillicons.dev)
 
-### Estudando agora
+<table>
+<tr>
+<td valign="top">
 
 - Spring Boot e APIs REST
 - SQL e modelagem de dados
 - Testes, Git e boas práticas
+
+</td>
+<td>
+
+<img src="https://media1.tenor.com/m/suspytVqEIcAAAAC/java-my-beloved.gif" width="250" alt="Java my beloved" />
+
+</td>
+</tr>
+</table>
 
 ### Se conecte comigo! 
 
