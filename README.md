@@ -16,7 +16,7 @@ Natal, RN · Análise e Desenvolvimento de Sistemas (UNP)
 
 ### Sobre
 
-Venho do suporte técnico e da infraestrutura de TI, e hoje construo minha carreira em desenvolvimento back-end. Gosto de entender como os sistemas funcionam por dentro, da rede até o código.
+Dev back-end Java em formação. Trabalho com sistemas hospitalares e crio ferramentas pra resolver meus próprios problemas. Linux no dia a dia.
 
 ### Stack
 
