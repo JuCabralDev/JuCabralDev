@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile-card.svg" alt="Júlia Cabral, desenvolvedora back-end Java júnior" width="720" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E6CCB2&height=110&section=header" alt="" />
 
 # Júlia Cabral
 
